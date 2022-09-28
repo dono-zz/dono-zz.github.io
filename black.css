@@ -3,6 +3,3 @@ body{color:#bfff00;font-family:Inter;font-size:14px;height:100%;background-color
 #shell{max-width:1440px;width:100%;margin:50px auto 0;box-shadow:0 0 5px rgba(0,0,0,.3);font-size:10pt;display:flex;flex-direction:column;align-items:stretch}#shell-content{height:500px;overflow:auto;padding:5px;white-space:pre-wrap;flex-grow:1}#shell-logo{font-weight:700;color:#ff4180;text-align:center}@media (max-width:991px){#shell-logo{font-size:6px;margin:-25px 0}#shell,body,html{height:100%;width:100%;max-width:none}#shell{margin-top:0}}@media (max-width:767px){#shell-input{flex-direction:column}}@media (max-width:320px){#shell-logo{font-size:5px}}.shell-prompt{font-weight:700;color:#df0b0b}.shell-prompt>span{color:#1bc9e7}#shell-input{display:flex;box-shadow:0 -1px 0 rgba(0,0,0,.3);border-top:1px solid rgba(255,255,255,.05)}#shell-input>label{flex-grow:0;display:block;padding:0 5px;height:30px;line-height:30px}#shell-input #shell-cmd{height:30px;line-height:30px;border:none;background:0 0;font-family:monospace;font-size:10pt;width:100%;align-self:center}#shell-input div{flex-grow:1;align-items:stretch}#shell-input input{outline:0}
 .corona { background-color:#000; }
 input { color: #bfff00; }
-
-
-
