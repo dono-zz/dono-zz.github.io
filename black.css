@@ -15,6 +15,9 @@ body{color:#bfff00;font-family:Roboto;font-size:14px;height:100%;background-colo
               background-color: transparent;
               color: #00ff00;
           }
+          .form-control:disabled, .form-control[readonly] {
+               background-color: transparent;
+          }
          a, a:hover {
             color: #00ff00;
             text-align: center;
