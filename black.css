@@ -6,7 +6,6 @@ body{color:#bfff00;font-family:Roboto;font-size:14px;height:100%;background-colo
           .text-left a { 
             width: 240px;
             overflow: hidden;
-            display: inline-block;
             text-overflow: ellipsis;
             white-space: nowrap;
             color: #bfff00;
@@ -14,6 +13,7 @@ body{color:#bfff00;font-family:Roboto;font-size:14px;height:100%;background-colo
           .dropdown:hover .dropdown-menu { display: block; margin-top: 0; }
           .form-control {
               background-color: transparent;
+              color: #00ff00;
           }
          a, a:hover {
             color: #00ff00;
