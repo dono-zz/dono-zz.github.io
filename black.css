@@ -12,3 +12,6 @@ input { color: #bfff00; }
   color: #bfff00;
     }
 .dropdown:hover .dropdown-menu { display: block; margin-top: 0; }
+.form-control {
+    background-color: #000;
+}
