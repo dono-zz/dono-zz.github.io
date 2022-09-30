@@ -7,11 +7,12 @@ code:focus{border:1px dashed #31808c;outline:0;animation:select .1s step-end for
           .corona { background-color:#000; max-width: 1150px;margin: 0 auto;}
           input { color: #bfff00; }
           .text-left a { 
-            width: 240px;
+            max-width: 240px;
             overflow: hidden;
             text-overflow: ellipsis;
             white-space: nowrap;
             color: #bfff00;
+            display:inline-block;
               }
           .dropdown:hover .dropdown-menu { display: block; margin-top: 0; }
           .form-control {
