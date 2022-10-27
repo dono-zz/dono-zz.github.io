@@ -95,7 +95,7 @@ function enableHistory () {
         echo "[+] Enabled history library"
 
         echo
-        echo "Permenently enabled bash log."
+        echo "Permanently enabled bash log."
 }
 
 function clearLogs () {
